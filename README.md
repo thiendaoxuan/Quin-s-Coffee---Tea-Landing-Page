@@ -1,5 +1,8 @@
 # Quin's Coffee & Tea Landing Page
 
+### Current location
+https://quins.cafe/
+
 ### Project Description
 
 The Coffee Shop Landing Page is a simple HTML and CSS webpage designed to showcase your coffee shop's offerings and attract potential customers. The landing page includes essential information about your coffee shop, such as its location, menu, opening hours, and contact details.
