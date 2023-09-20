@@ -1647,3 +1647,17 @@ section {
 .footer .credits a {
   color: #fff;
 }
+
+.grab-green {
+  border: 2px solid green;
+  background-color: white;
+  padding: 5px 10px 10px 10px;
+  border-radius: 20px;
+}
+
+.shopee-red {
+  border: 2px solid orangered;
+  background-color: white;
+  padding: 7px 10px;
+  border-radius: 20px;
+}
